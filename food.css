@@ -1,0 +1,170 @@
+
+div{
+    padding-top: 30;
+   
+}
+a{
+    text-decoration: none;
+    color: red;  
+}
+
+#align{
+    padding-left: 130px;
+    font-size: xx-large;
+    text-decoration: solid;
+    
+    
+}
+#home{
+   padding-left: 220px;
+}
+div #home{
+    word-spacing: 50px;
+}
+form{
+    float: right;
+    padding-right: 70px;
+    
+}
+#color{
+    color: red;
+    background-color: white;
+    border-color: black;
+    width: 70;
+    height: 40;
+}
+#background{
+    color: white;
+    background-color: red;
+    width: 70;
+    height: 40;
+    border-color: black;
+}
+
+p{
+    padding-left: 149;
+}
+#banner{
+    background-image: url(https://th.bing.com/th/id/OIP.HFZeswAB3mCOO2RtmlOoogHaJ4?pid=ImgDet&rs=1);
+width: 400;
+height: 300px;
+float: right;
+border-radius: 90px;
+
+}
+#b{
+    width: 270px;
+    height: 300px;
+    padding-left: 60;
+}
+#float{
+    padding-right: 200px;
+}
+#pizza{
+    padding-left: 250;
+    font-size: xx-large;
+}
+#deli{
+    display: inline;
+    color: red;
+}
+#and{
+    display: inline-block
+}
+#design{
+    display: inline;
+}
+#up{
+    display: inline-block;
+    color: red;
+}
+#offer{
+    width: 200px;
+    height: 200px;
+    border-radius: 50px;
+    padding-left: 190px;
+    display: inline;
+}
+#special{
+    display: inline-block;
+}
+#new{
+    padding-left: 110px;
+    color: red;
+    
+}
+.box{
+    border: 2;
+    border-color: lightpink;
+    
+    background-color: #ffe6ff
+}
+.location:hover{
+    
+    background-color: red;
+    
+}
+.location{
+    text-align: center;
+}
+#dishes{
+    text-align: center;
+    
+}
+
+#padding{
+    padding-left: 270;
+}
+.burger{
+    width: 200px;
+    height: 200px;
+    padding-left: 120;
+   
+}
+form{
+    padding-left: 30;
+
+}
+#mobile{
+    width: 350px;
+    height: 400px;
+    padding-left: 200;
+    background-color: black;
+    display: inline-block
+
+}
+#app{
+    padding-left: 300px;
+    display: inline-block
+   
+   
+}
+#download{
+    text-align: start;
+}
+#width{
+    padding-left: 250;
+}
+#info{
+    padding-left: 100;
+}
+.footer{
+    padding-left: 130;
+    background-color: black;
+    color: white;
+}
+#social{
+    word-spacing: 30px;
+}
+#full{
+    background-color: black;
+}
+
+.terms{
+    color: white;
+    padding-left: 160px;
+}
+#last{
+    background-color: red;
+}
+
